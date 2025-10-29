@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Komal
 
-- 🔭 I’m currently working on CMU Intro to DBMS course and its [projects](https://github.com/psykomal/go-trie). 
-- 🌱 I’m currently learning about Database Internals and Distributed Systems
-- 🦀 Learning and Coding in Rust
+- 🦀 I’m currently working at YRAL. Check my work at - https://github.com/komal-sai-yral
+- 🌱 I’m currently learning about ML/AI systems, Database Internals, Distributed Systems
 - 📫 Checkout my blog where I frequently post things I am working on: [blog link](https://psykomal.com)
 

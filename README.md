@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Komal
 
-- 🦀🐍 I’m currently juggling agents between sandbox orchestration, local ML and squeezing throughput using zerocopy, mmap and other low-level expriments.
+- 🦀🐍 I’m currently juggling agents between sandbox orchestration, local ML and squeezing throughput using zerocopy, mmap, LLVM opt and other low-level experiments.
 - 🌱 Always learning about ML/AI and Distributed Systems
 - 📫 Checkout my blog where I frequently post things I am working on: [blog link](https://psykomal.com) (new blog under construction)
 
